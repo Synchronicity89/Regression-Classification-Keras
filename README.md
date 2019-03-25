@@ -2,15 +2,15 @@
 
 ## Aim of this Repo:
 
-Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
+Demonstration of how to use the Keras library in Deep Neural Networks to solve all common supervised and unsupervised problems including Regression as well as Classification Problems, with various inputs and outputs. The idea is to cover all the likely input and output scenarios and thereby deal with with all the common supervised and unsupervised problems.  The goal is that experienced developers who are investing effort in studying machine learning can find all the examples they need, but would be required to 'fix bugs' or solve problems and thereby learn machine learning by hands-on coding.  The reason why there should be issues to fix is that it is far too easy to clone a repo and run the notebooks and learn absolutely nothing.  So the idea is that a software engineer would fork the repo, and instead of submitting pull requests that contain solutions, they might submit pull requests containing additional problems. Any pull requests containing solutions will be rejected, though they can of course push solutions to their own fork.
 
-Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
+Inside the Datasets folder, you will find requisite datsets in .csv format:
 
 • hourly_wages_data
 
 • diabetes_data
 
-The code for demonstration of Keras usage is in .ipynb format, in the file DL_Keras_Regression-&-Classification.ipynb, and the same notebook contains the code for Regression problem and also the Classification problem.
+The code for demonstration of Keras usage is in .ipynb format, for example, in the file DL_Keras_Regression-&-Classification.ipynb for Regression and Classification. Additional notebooks are added as required to cover all the common input and output scenarios of supervised and unsupervised learning.
 
 ## Regression
 
